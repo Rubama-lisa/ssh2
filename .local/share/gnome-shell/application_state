@@ -3,12 +3,13 @@
   <context id="">
     <application id="snap-store_ubuntu-software.desktop" score="22" last-seen="1682801458"/>
     <application id="gnome-initial-setup.desktop" score="1.5" last-seen="1682410197"/>
-    <application id="firefox.desktop" score="9851.5" last-seen="1682970611"/>
-    <application id="org.gnome.Terminal.desktop" score="19289" last-seen="1682970647"/>
+    <application id="firefox.desktop" score="9927.5" last-seen="1682971745"/>
+    <application id="org.gnome.Terminal.desktop" score="19374" last-seen="1682971885"/>
     <application id="org.gnome.gedit.desktop" score="51" last-seen="1682970153"/>
     <application id="opera_opera.desktop" score="57.5" last-seen="1682802517"/>
     <application id="yelp.desktop" score="0" last-seen="1682800440"/>
     <application id="gnome-control-center.desktop" score="0" last-seen="1682410396"/>
     <application id="update-manager.desktop" score="0" last-seen="1682410231"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1682971215"/>
   </context>
 </application-state>
